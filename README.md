@@ -4,7 +4,21 @@
 
 ###
 
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+<div align="center">
+
+### 👨‍💻 About Me
+
+Software Engineering Student @ UNITEN
+
+🔭 Building web, mobile, AI & game development projects<br>
+🌱 Exploring Cloud, DevOps, Linux & Software Architecture<br>
+👨‍💼 Co-Lead @ GDGoC UNITEN<br>
+🥈 2nd Place @ PRO-C Prompt Quest AI Mini Hackathon<br>
+💡 Passionate about open source, self-hosting & community building
+
+<i>"Learning by building."</i>
+
+</div>
 
 ###
 
