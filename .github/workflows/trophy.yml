@@ -23,7 +23,7 @@ jobs:
 
     steps:
       - name: Generate trophy.svg
-        uses: Erik-Donath/github-profile-trophy@main
+        uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
           username: ${{ github.repository_owner }}
           file: dist/trophy.svg
