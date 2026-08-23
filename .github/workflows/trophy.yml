@@ -1,4 +1,4 @@
-# Generate Trophy Card — GitHub Actions Workflow
+# Generate Trophy Card Workflow
 
 name: Generate Trophy Card
 
@@ -15,25 +15,22 @@ on:
 
 jobs:
   generate:
-    permissions:
-      contents: write
-
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
+    permissions:
+      contents: write
+
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate trophy.svg
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          username: ${{ github.repository_owner }}
-          file: dist/trophy.svg
+          options: "username=${{ github.repository_owner }}&theme=dracula&column=8&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false"
+          path: dist/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          theme: dracula
-          max-rows: 1
-          margin-width: 8
-          margin-height: 8
-          no-background: false
-          no-frame: false
 
       - name: Push trophy.svg to trophy-output branch
         uses: peaceiris/actions-gh-pages@v4
