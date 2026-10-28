@@ -1,112 +1,177 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media.licdn.com/dms/image/v2/D5603AQGnye5UPysiEQ/profile-displayphoto-scale_400_400/B56Z8iDyZAIQAg-/0/1782982847366?e=1787184000&v=beta&t=O6W9QcQfPwLixvHeE6h0O0075QHd0PH7238DAG3qwPY"  />
+<div align="center">
+
+<img src="/.Runner Up Prompt Quest Hackathon-BWHKarh-.jpg" width="140" alt="Ashraf Syahmie" />
+
+# Hi, I'm Ashraf Syahmie 👋
+
+### Software Engineering Student @ UNITEN
+
+Building useful software through engineering, experimentation, and collaboration.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ashrafsyhmie)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4285F4?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashraf-syahmie-1969a8269/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ashrafsyhmie/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:icerafsyahmie12@gmail.com)
+
 </div>
 
-###
+---
+
+## About Me
+
+I'm a Software Engineering student at Universiti Tenaga Nasional (UNITEN), interested in building practical applications and exploring how technology can solve real-world problems.
+
+I enjoy working across different areas of software development, from designing web and mobile applications to experimenting with AI, Linux, and self-hosted infrastructure.
+
+- 🎓 Pursuing a Bachelor's degree in Software Engineering.
+- 👨‍💼 Co-Lead at Google Developer Groups on Campus UNITEN.
+- 🥈 2nd Place — PRO-C Prompt Quest AI Mini Hackathon.
+- 💻 Building web applications, mobile apps, and developer tools.
+- 🐧 Exploring Linux, Docker, cloud technologies, and self-hosting.
+- 🌱 Continuously learning through projects and collaboration.
 
 <div align="center">
 
-### 👨‍💻 About Me
-
-Software Engineering Student @ UNITEN
-
-🔭 Building web, mobile, AI & game development projects<br>
-🌱 Exploring Cloud, DevOps, Linux & Software Architecture<br>
-👨‍💼 Co-Lead @ GDGoC UNITEN<br>
-🥈 2nd Place @ PRO-C Prompt Quest AI Mini Hackathon<br>
-💡 Passionate about open source, self-hosting & community building
-
-<i>"Learning by building."</i>
+*Learning by building.*
 
 </div>
 
-###
+---
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="60" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="60" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="60" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="60" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="60" alt="ubuntu logo"  />
+## Tech Stack
+
+### Languages & Frameworks
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,php,java,dart,c,cpp" alt="Programming languages" />
 </div>
 
-###
+### Web & Mobile Development
 
-<div data-importer="socials" align="center">
-  <a href="ashraf-syahmie-1969a8269" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/ashrafsyhmie/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="mailto:icerafsyahmie12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,laravel,nodejs,flutter" alt="Web and mobile development technologies" />
 </div>
 
-###
+### Tools, Databases & Infrastructure
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=ashrafsyhmie&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/ashrafsyhmie/ashrafsyhmie/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,mysql,firebase,nginx,git,github,figma,arduino,godot,selenium,npm,notion,canva" alt="Tools, databases and infrastructure technologies" />
 </div>
 
-###
+---
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashrafsyhmie/ashrafsyhmie/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashrafsyhmie/ashrafsyhmie/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ashrafsyhmie/ashrafsyhmie/pacman-output/pacman-contribution-graph.svg?game=pacman">
+## Featured Projects
+
+Projects that reflect my interests in software engineering, practical problem-solving, and experimentation.
+
+### 🌫️ HazeWatch
+A haze-monitoring platform designed to make environmental information, air quality observations, and trends easier to understand.
+
+**Focus:** Environmental data · Web development · Data visualization
+
+### 🛡️ Sentinel-U
+A campus crisis-management concept exploring emergency coordination, evacuation planning, resource monitoring, and digital-twin technologies.
+
+**Focus:** Crisis management · Software architecture · Digital twin
+
+### 📄 PDFKit
+A developer-focused project exploring PDF functionality and document workflows.
+
+**Focus:** Web development · Document processing · Developer tools
+
+[Explore PDFKit →](https://github.com/ashrafsyhmie/pdfkit)
+
+### 🏃 Kinetic
+A Flutter-based fitness application exploring mobile application development and activity-related functionality.
+
+**Focus:** Flutter · Mobile development
+
+### 🌱 Thayyib
+An AI-assisted halal-compliance concept designed to help manufacturers and SMEs identify potential ingredient and expiry-related issues.
+
+**Focus:** AI integration · Compliance workflows · Problem-solving
+
+<div align="center">
+
+[**Explore All My Repositories →**](https://github.com/ashrafsyhmie?tab=repositories)
+
+</div>
+
+---
+
+## Achievements & Community
+
+<div align="center">
+
+### 🥈 PRO-C Prompt Quest AI Mini Hackathon
+
+**2nd Place**
+
+Recognized for an AI-assisted halal-compliance solution designed for manufacturers and SMEs.
+
+### 🤝 Google Developer Groups on Campus UNITEN
+
+**Co-Lead**
+
+Contributing to developer education, community initiatives, and collaborative learning opportunities.
+
+</div>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ashrafsyhmie&locale=en&mode=daily&theme=default&hide_border=true&border_radius=8" height="170" alt="GitHub contribution streak" />
+
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ashrafsyhmie/ashrafsyhmie/trophy-output/trophy.svg?theme=flat&column=-1&row=1&margin-w=8&margin-h=8&no-frame=true" alt="GitHub achievement trophies" />
+
+</div>
+
+---
+
+## Currently Exploring
+
+- Building reliable and maintainable full-stack applications.
+- Integrating AI into practical software products.
+- Linux, Docker, and self-hosted infrastructure.
+- Software architecture, testing, and deployment workflows.
+- Developer tools that improve everyday workflows.
+
+I'm always open to learning from other developers, collaborating on interesting projects, and exploring new ideas.
+
+---
+
+<div align="center">
+
+### 🟡 My Contribution Arcade
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ashrafsyhmie/ashrafsyhmie/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ashrafsyhmie/ashrafsyhmie/pacman-output/pacman-contribution-graph.svg?game=pacman"
+  />
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/ashrafsyhmie/ashrafsyhmie/pacman-output/pacman-contribution-graph.svg?game=pacman"
+    width="100%"
+  />
 </picture>
 
-###
+<br />
+
+*Thanks for visiting! Keep building, keep learning. 🚀*
+
+</div>
+
