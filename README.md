@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/.Runner Up Prompt Quest Hackathon-BWHKarh-.jpg" width="140" alt="Ashraf Syahmie" />
+<img src="./profile.jpg" width="140" alt="Ashraf Syahmie" />
 
 # Hi, I'm Ashraf Syahmie 👋
 
